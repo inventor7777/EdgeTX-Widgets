@@ -1,0 +1,3 @@
+This is a modified version of Offer Shmuely's Timer widget for EdgeTX which does not show a title above the value.
+
+Place all the files here into a folder called "Timer+" and place that onto your radio's WIDGETS folder.
