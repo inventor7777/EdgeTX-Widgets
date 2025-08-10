@@ -88,6 +88,7 @@ local function getSensorId(key)
 		["2.19"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
 		["2.20"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
 		["3.1"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
+		["3.0"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
 		["3.2"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
 		["3.3"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
 		["3.4"] = {RSSI=0  , CELS=0  , TxBt=0  , RxBt=0  },
